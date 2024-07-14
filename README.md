@@ -30,5 +30,5 @@
 <br>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgh000322" width="800">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgh000322" width="400">
 </p>
