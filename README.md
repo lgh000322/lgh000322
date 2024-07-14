@@ -27,7 +27,8 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyounghun12" alt="Solved.ac Profile" width="400">
     </a>
 </p>
+<br>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgh000322">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgh000322" width="800">
 </p>
