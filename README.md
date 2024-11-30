@@ -1,6 +1,7 @@
 <p align='center'>
    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=Gyeonghun%20Lee%20&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Backend%20Developer&descAlignY=55&descAlign=80&fontColor=ffffff" />
-
+  <p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flgh000322&count_bg=%23F32DEC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=count&edge_flat=false"/></a>
  
 
 
