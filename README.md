@@ -15,6 +15,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp 
 </p>
+<p align="center">
+   <img src="https://img.shields.io/badge/AWS_EC2-20232a.svg?style=flat-square&logo=amazonec2&logoColor=white" />
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
+   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
+   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+</p>
 
 <h3 align="center"> 📫 Connect With Me 📫 </h3>
 <p align="center">
